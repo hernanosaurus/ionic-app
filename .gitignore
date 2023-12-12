@@ -27,3 +27,7 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
+
+# Ignore build files
+**/node_modules
+**/package-lock.json
